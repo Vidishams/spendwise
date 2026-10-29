@@ -3,7 +3,7 @@
 
 SpendWise is a modern and responsive personal finance dashboard built using React, Vite, Tailwind CSS, and Recharts. It helps users track income and expenses, manage budgets, and visualize spending habits through interactive charts.
 
-> **Note:** SpendWise is a demo application. All transactions and wallet balances are simulated. No real payments are processed.
+> **Note:** SpendWise is a demo application. All transactions and wallet balances are simulated.
 
 ## Features
 
